@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lcproj projname="Mscr" appname="Mscr" autorotate="true" is_acc_mode="0" localmode="true" pkgname="a.f.c" rgbmode="false" targetsize="0x0">
+    <lua entry="Mscr.lua">
+        <file name="java\HashTable.lua"/>
+        <file name="util\TouchUtil.lua"/>
+        <file name="util\GameUtil.lua"/>
+        <file name="fishing\FishingMain.lua"/>
+        <file name="fishing\FishingTools.lua"/>
+        <file name="fishing\FishingWarehouse.lua"/>
+    </lua>
+    <rc entry="Mscr.rc"/>
+    <ui entry="Mscr.ui"/>
+    <luae entry="">
+        <file name="armeabi-v7a"/>
+        <file name="x86"/>
+    </luae>
+</lcproj>
